@@ -1,0 +1,240 @@
+#body{
+    background-color: #EAE7B1;
+}
+#body1{
+    background-color: #61876E;
+    height: fit-content;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    color:;
+    border-radius: 50px;
+    margin: 3%;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+   /* color: white;*/
+   }
+
+#main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 50px;
+}   
+ 
+img{
+    border-radius: 50px;
+}
+#main1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+ 
+#main2{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#btn1{
+    width: 150px;
+    height: 40px;
+    background-color: #3c6255;
+    border-radius: 20px;
+    color: aliceblue;
+}
+
+#lis{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+li{
+    margin: 20px;
+    padding: 10px;
+}
+
+#content_first{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    
+}
+
+#written_content{
+    width: 40%;
+}
+
+#cname{
+    font-size: 50px;
+    color: black;
+}
+
+#para{
+    font-size: 18px;
+}
+
+#button1{
+    width: 100px;
+    height: 40px;
+    background-color:#EAE7B1;
+    border-radius: 20px;
+    color:#3c6255;
+    align-self: center;
+}
+
+#content_second{
+    width: 90%;
+    margin: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    background-color:#3c6255;
+    height:fit-content;
+    padding: 30px ;
+    border-radius: 50px;
+}
+
+#written_content1{
+    width: 40%;
+    background-color: #a6bb8d;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+    border-radius: 50px;
+    /margin-top: 70px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#pic{
+    align-self: center;
+    margin-top: 10%;
+}
+#au{
+    text-align : center;
+    font-size: 30px;
+}
+
+#written_content2{
+    width: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #a6bb8d;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+    color: black;
+    border-radius: 50px;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+#au1{
+    font-size: 30px ;
+    align-self: left;
+}
+
+#aup2{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#btn2{
+    width: 100px;
+    height: 40px;
+    background-color:  #3c6255;
+    border-radius: 20px;
+    align-self: center;
+    color: white;
+}
+
+#page3{
+    width: 90%;
+    margin: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /align-items: center;
+    margin-top: 100px;
+    background-color: #61876E;
+    height:fit-content;
+    padding: 30px ;
+    border-radius: 50px;
+}
+
+
+#content_third{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /align-items: center; 
+   / margin-right: 50px;
+    /margin-bottom: 50px;
+    /margin-left: 50px;
+       
+}
+#heading{
+    height: 200px;  
+    width: 40%;
+    /align-self:;
+}
+
+#au3{
+    align-self: left;
+}
+
+#text {
+    width: 90%;
+    margin: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    background-color: black;
+    height:fit-content;
+    padding: 30px ;
+    border-radius: 50px;
+    background: linear-gradient( rgb(89, 57, 124) ,goldenrod );
+}
+
+#hh{
+    font-size: 7vw;
+    /*color: rgb(255, 255, 255)*/;
+    /*padding-top: 200px;*/
+    color: goldenrod;
+}
+
+#hhh{
+    font-size: 7vw;
+    /*color: rgb(255, 255, 255)*/;
+    padding-bottom: 0px;
+    color: rgb(89, 57, 124);
+}
